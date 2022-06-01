@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='12_Self-sudy_Subscripts'/>
+        <page name='Func_demo'/>
+        <page name='11_Self-sudy_Methods'/>
+        <page name='10_Self-sudy_Properties'/>
+        <page name='09_Self-sudy_Structures_and_Classes'/>
+        <page name='03_Self-study_Strings_and_Characters'/>
+        <page name='Lessen_1_Основы'/>
+        <page name='Lessen_2_Базовые_типы'/>
+        <page name='Lesson_4_Опциональные_типы'/>
+        <page name='Lesson_5_Базовые_операторы'/>
+        <page name='Lesson_6_Строки'/>
+        <page name='Lesson_3_Тюплы'/>
+        <page name='Lesson_7_Массивы'/>
+        <page name='Lesson_8_Дикшинари'/>
+        <page name='Lesson_9_Оператор_Switch'/>
+        <page name='Lesson_10_Функции'/>
+        <page name='Lesson_11_Клоужеры'/>
+        <page name='Lesson_12_Энумы'/>
+        <page name='Lesson_13_Классы_и_структуры'/>
+        <page name='Lesson_14_Свойства'/>
+        <page name='Lesson_15_Свойства_типов'/>
+        <page name='Lesson_16_Методы'/>
+        <page name='Lesson_17_Сабскрипты'/>
+        <page name='Lesson_18_Наследование'/>
+        <page name='Lesson_19_Инициализаторы_Часть_1'/>
+        <page name='Lesson_20_Инициализаторы_Часть_2'/>
+        <page name='Lesson_21_Инициализаторы_Часть_3'/>
+        <page name='Lesson_22_ARC'/>
+    </pages>
+</playground>
